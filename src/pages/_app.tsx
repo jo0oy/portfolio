@@ -9,11 +9,11 @@ import type { AppProps } from "next/app";
 const DEFAULT_SEO = {
   title: "이주연 | Back-End Dev",
   description: "안녕하세요, 백엔드 개발자 이주연입니다.",
-  canonical: "https://www.naver.com/",
+  canonical: "https://jo0oy-portfolio.vercel.app/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
+    url: "https://jo0oy-portfolio.vercel.app/",
     title: "이주연 | Back-End Dev",
     site_name: "이주연 | Back-End Dev",
     images: [
