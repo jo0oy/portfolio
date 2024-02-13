@@ -6,17 +6,17 @@
   "information": {
     "name": "이주연",
     "contact": [
-      { "id": 0, "name": "Email", "href": "ljooyeon.23@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/jo0oy" }
+      { "id": 0, "name": "Email", "href": "", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "" }
     ]
   },
 
   "workExperience": [
     {
       "id": 0,
-      "name": "N Tech Service",
-      "position": "SW QA 인턴",
-      "period": ["2020.07", "2020.08"]
+      "name": "",
+      "position": "",
+      "period": ["", ""]
     }
   ],
 
@@ -36,9 +36,9 @@
   "activity": [
     {
       "id": 0,
-      "name": "S.O.P.T 대학생 연합 IT 벤처 창업 동아리",
-      "period": ["2019.09", "2020.01"],
-      "description": "안드로이드 파트원으로 활동\n주요활동\n   - 매주 토요일 각 파트별 세미나 진행 및 과제\n   - 마지막 2주간 'APPJAM'진행"
+      "name": "",
+      "period": ["", ""],
+      "description": ""
     }
   ],
   "education": [
