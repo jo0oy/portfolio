@@ -61,5 +61,4 @@ export interface DataProps {
     date: string;
     organizer: string;
   }[];
-  award: AwardProps[];
 }

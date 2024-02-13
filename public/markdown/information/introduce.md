@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- **고객에게 안전하고 견고한, 새로운 사용자 경험을 제공하는 서비스**를 개발하고 싶은 개발자입니다.
+- ‘더 읽기 좋은 코드, 확장성 있는 코드, 더 효율적인 개발 코드’를 작성할 수 없을까 고민하고, 성능 개선을 위해 더 나은 방법을 모색하며 발전하고 꾸준히 성장하려고 노력합니다.
+- Java, Spring, JPA를 활용한 백엔드 개발에 관심을 가지고 있습니다.
