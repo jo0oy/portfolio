@@ -89,15 +89,9 @@
   "certificate": [
     {
       "id": 0,
-      "name": "OPIC IM1",
-      "date": "2022. 09. 11",
+      "name": "OPIC IH",
+      "date": "2024. 09. 11",
       "organizer": "ACTFL"
-    },
-    {
-      "id": 1,
-      "name": "TOEIC 850점",
-      "date": "2022. 09. 25",
-      "organizer": "한국TOEIC위원회"
     }
   ]
 }
