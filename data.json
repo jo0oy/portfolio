@@ -92,6 +92,18 @@
       "name": "OPIC IH",
       "date": "2024. 09. 11",
       "organizer": "ACTFL"
+    },
+    {
+      "id": 0,
+      "name": "TOEIC 870",
+      "date": "2024. 09. 29",
+      "organizer": "한국TOEIC위원회"
+    },
+    {
+      "id": 0,
+      "name": "SQL 개발자(SQLD)",
+      "date": "2024. 11. 17",
+      "organizer": "한국데이터산업진흥원"
     }
   ]
 }
